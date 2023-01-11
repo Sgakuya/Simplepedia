@@ -1,9 +1,9 @@
 # Simplepedia
 
+A stripped down version of wikipedia that allows adding, editing and uploading text-only articles which are stored in a Firestore NoSQL database. 
+
 ## Author
 Smith Gakuya
-
-A stripped down version of wikipedia that allows adding, editing and uploading text-only articles which are stored in a Firestore NoSQL database. 
 
 ## Usage
 1. After opening directory with files install dependencies by running
