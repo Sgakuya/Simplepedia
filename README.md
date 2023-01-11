@@ -10,6 +10,7 @@ A stripped down version of wikipedia that allows adding, editing and uploading t
 > npm install
 2. Open the database and authentication emulators by running:
 > firebase emulators:start    
+
 *Note: Emulators by default are set to use the ports 5000, 9099 and 8000. To change this, open the firebase.json file and edit there*   
 *You can open these emulators by going to the links displayed in your terminal in order to view how the data is stored in Firestore*    
 3. There are already some articles in data/seed.json which you can seed into the site by running   
